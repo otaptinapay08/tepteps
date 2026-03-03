@@ -1,4 +1,4 @@
--- Jecho Emotes Menu
+-- teptep Emotes Menu
 -- KEY SYSTEM (PUT ABOVE EVERYTHING)
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
@@ -6,9 +6,9 @@ local LocalPlayer = Players.LocalPlayer
 
 
 
--- Jecho Emotes Menu
--- Made by Siwo
--- Made by Siwo
+-- Teptep Emotes Menu
+-- Made by tep
+-- Made by tep
 local IsStudio = false
 
 local ContextActionService = game:GetService("ContextActionService")
@@ -100,7 +100,7 @@ end)
 Frame.Parent = BackFrame
 
 local Grid = Instance.new("UIGridLayout")
-Grid.CellSize = UDim2.new(0.200, 0, 0, 0)
+Grid.CellSize = UDim2.new(0.142857, 0, 0, 0)
 Grid.CellPadding = UDim2.new(0.00, 0, 0.006, 0)
 Grid.SortOrder = Enum.SortOrder.LayoutOrder
 Grid.Parent = Frame
@@ -442,7 +442,9 @@ local customEmotes = {
 	{ Name = "Alo Yoga Pose - Lotus Position", Id = 12507097350, Price = 0, Index = 121 },
 	{ Name = "BURBERRY LOLA ATTITUDE", Id = 10147924028, Price = 0, Index = 140 },
 	{ Name = "Arm-Twist", Id = 9710992846, Price = 0, Index = 46 },
-	{ Name = "Stray Kids - Do It", Id = 95256633886548, Price = 0, Index = 200 },
+	{ Name = "Stray Kids - Do It", Id = 95256633886548, Price = 0, Index = 204 },
+	{ Name = "stretch like this?", Id = 87739743400914, Price = 0, Index = 205 },
+	{ Name = "Catwalk Walk", Id = 126017588998166, Price = 0, Index = 205 },
 	{ Name = "Rise-Above-The-Chainsmokers", Id = 13071993910, Price = 0, Index = 91 },
 
 
