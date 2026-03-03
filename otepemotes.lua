@@ -85,7 +85,7 @@ Loading.Position = UDim2.fromScale(0.5, 0.2)
 Corner:Clone().Parent = Loading
 
 local Frame = Instance.new("ScrollingFrame")
-Frame.Size = UDim2.new(1, 0, 1, 0)
+Frame.Size = UDim2.new(0.5, 0, 0.7, 0)
 Frame.CanvasSize = UDim2.new(0, 0, 0, 0)
 Frame.AutomaticCanvasSize = Enum.AutomaticSize.Y
 Frame.ScrollingDirection = Enum.ScrollingDirection.Y
