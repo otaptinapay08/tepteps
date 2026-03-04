@@ -456,7 +456,13 @@ for _, emote in ipairs(customEmotes) do
 end
 
 for _, Emote in pairs(totalEmotes) do
-	AddEmote(Emote.Name, Emote.Id, Emote.Price)
+	local success, isFavorite = pcall(function()
+		return AvatarEditorService:GetFavoriteAsync(Emote.Id)
+	end)
+
+	if success and isFavorite then
+		AddEmote(Emote.Name, Emote.Id, Emote.Price)
+	end
 end
 
 -- Unreleased emotes (commented out invalid IDs)
