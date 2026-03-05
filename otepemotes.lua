@@ -445,8 +445,19 @@ local customEmotes = {
 	{ Name = "Stray Kids - Do It", Id = 95256633886548, Price = 0, Index = 204 },
 	{ Name = "stretch like this?", Id = 87739743400914, Price = 0, Index = 205 },
 	{ Name = "Catwalk Walk", Id = 126017588998166, Price = 0, Index = 205 },
+	{ Name = "NewJeans - OMG", Id = 90781546116238, Price = 0, Index = 206 },
+	{ Name = "NewJeans - OMG2 ", Id = 110065866091893, Price = 0, Index = 207 },
+	{ Name = "Hype Boy - NewJeans ", Id = 107651242636435, Price = 0, Index = 208 },
+	{ Name = "ICY - ITZY ", Id = 128315748209602, Price = 0, Index = 209 },
+	{ Name = "No Batidao Dance ", Id = 126050130830371, Price = 0, Index = 210 },
+	{ Name = "Make me Smile ", Id = 115233744807121, Price = 0, Index = 211 },
+	{ Name = "i-dle - Good Thing ", Id = 79310701050039, Price = 0, Index = 212 },
+	{ Name = "Head Spin ", Id = 74245395040974, Price = 0, Index = 213 },
+	{ Name = "Say The Word On Beat", Id = 124952219762093, Price = 0, Index = 214 },
+	{ Name = "Drop Kick ", Id = 122990265693059, Price = 0, Index = 215 },
+	{ Name = "CJ Breakdance ", Id = 83182439298770, Price = 0, Index = 216 },
+	{ Name = "Belly Spin ", Id = 110607937520224, Price = 0, Index = 217 },
 	{ Name = "Rise-Above-The-Chainsmokers", Id = 13071993910, Price = 0, Index = 91 },
-
 
 }
 
