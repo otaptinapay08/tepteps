@@ -457,6 +457,7 @@ local customEmotes = {
 	{ Name = "Drop Kick ", Id = 122990265693059, Price = 0, Index = 215 },
 	{ Name = "CJ Breakdance ", Id = 83182439298770, Price = 0, Index = 216 },
 	{ Name = "Belly Spin ", Id = 110607937520224, Price = 0, Index = 217 },
+	{ Name = "Hakari Dance V2 ", Id = 77666131363559, Price = 0, Index = 218 },
 	{ Name = "Rise-Above-The-Chainsmokers", Id = 13071993910, Price = 0, Index = 91 },
 
 }
