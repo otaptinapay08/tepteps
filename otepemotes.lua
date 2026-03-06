@@ -448,7 +448,7 @@ local customEmotes = {
 	{ Name = "NewJeans - OMG", Id = 90781546116238, Price = 0, Index = 206 },
 	{ Name = "NewJeans - OMG2 ", Id = 110065866091893, Price = 0, Index = 207 },
 	{ Name = "Hype Boy - NewJeans ", Id = 107651242636435, Price = 0, Index = 208 },
-	{ Name = "ICY - ITZY ", Id = 128315748209602, Price = 0, Index = 209 },
+	{ Name = "ICY - ITZY ", Id = 128315748209602, Id = 13071993910, Id = 79310701050039, Price = 0, Index = 209 },
 	{ Name = "No Batidao Dance ", Id = 126050130830371, Price = 0, Index = 210 },
 	{ Name = "Make me Smile ", Id = 115233744807121, Price = 0, Index = 211 },
 	{ Name = "i-dle - Good Thing ", Id = 79310701050039, Price = 0, Index = 212 },
