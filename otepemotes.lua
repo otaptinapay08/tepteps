@@ -459,7 +459,7 @@ local customEmotes = {
 	{ Name = "Belly Spin ", Id = 110607937520224, Price = 0, Index = 217 },
 	{ Name = "Hakari Dance V2 ", Id = 77666131363559, Price = 0, Index = 218 },
  	{ Name = " urban dance ", Id = 89466407313325 , Price = 0, Index = 219 },
-	{ Name = "stretch like me ", Id = 82996818202654, Price = 0, Index = 220 },
+	{ Name = "stretch like me ", Id = 108365468911712, Price = 0, Index = 220 },
 	{ Name = " spicy flow vibes ", Id = 124212021234700, Price = 0, Index = 221 },
 
 }
