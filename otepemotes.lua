@@ -442,9 +442,9 @@ local customEmotes = {
 	{ Name = "Alo Yoga Pose - Lotus Position", Id = 12507097350, Price = 0, Index = 121 },
 	{ Name = "BURBERRY LOLA ATTITUDE", Id = 10147924028, Price = 0, Index = 140 },
 	{ Name = "Arm-Twist", Id = 9710992846, Price = 0, Index = 46 },
+	{ Name = "Rise-Above-The-Chainsmokers", Id = 13071993910, Price = 0, Index = 91 },
 	{ Name = "Stray Kids - Do It", Id = 95256633886548, Price = 0, Index = 204 },
 	{ Name = "stretch like this?", Id = 87739743400914, Price = 0, Index = 205 },
-	{ Name = "Catwalk Walk", Id = 126017588998166, Price = 0, Index = 205 },
 	{ Name = "NewJeans - OMG", Id = 90781546116238, Price = 0, Index = 206 },
 	{ Name = "NewJeans - OMG2 ", Id = 110065866091893, Price = 0, Index = 207 },
 	{ Name = "Hype Boy - NewJeans ", Id = 107651242636435, Price = 0, Index = 208 },
@@ -458,7 +458,9 @@ local customEmotes = {
 	{ Name = "CJ Breakdance ", Id = 83182439298770, Price = 0, Index = 216 },
 	{ Name = "Belly Spin ", Id = 110607937520224, Price = 0, Index = 217 },
 	{ Name = "Hakari Dance V2 ", Id = 77666131363559, Price = 0, Index = 218 },
-	{ Name = "Rise-Above-The-Chainsmokers", Id = 13071993910, Price = 0, Index = 91 },
+ 	{ Name = " urban dance ", Id = 89466407313325 , Price = 0, Index = 219 },
+	{ Name = "stretch like me ", Id = 82996818202654, Price = 0, Index = 220 },
+	{ Name = " spicy flow vibes ", Id = 124212021234700, Price = 0, Index = 221 },
 
 }
 
