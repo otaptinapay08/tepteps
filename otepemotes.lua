@@ -425,7 +425,7 @@ end
 
 local customEmotes = {
 	{ Name = "SpongeBob Imaginaaation 🌈", Id = 18443268949, Price = 0, Index = 23 },
-	{ Name = "HUGO Let's Drive!", Id = 17360720445, Price = 0, Index = 31 },
+	{ Name = "HUGO Let's Drive!", Id = 17360720445, Price = 0, Index = 29 },
 	{ Name = "Elton John - Heart Shuffle", Id = 17748346932, Price = 0, Index = 28 },
 	{ Name = "Paris Hilton - Checking My Angles", Id = 15392937495, Price = 0, Index = 76 },
 	{ Name = "Paris Hilton - Iconic IT-Grrrl", Id = 15392932768, Price = 0, Index = 75 },
@@ -435,13 +435,11 @@ local customEmotes = {
 	{ Name = "Mean Mug - Tommy Hilfiger", Id = 10214415687, Price = 0, Index = 126 },
 	{ Name = "Uprise - Tommy Hilfiger", Id = 10275057230, Price = 0, Index = 124 },
 	{ Name = "Twice - Feel Special", Id = 14900153406, Price = 0, Index = 82 },
-	{ Name = "Nicki Minaj - Boom Boom Boom", Id = 15571538346, Price = 0, Index = 65 },
 	{ Name = "Frosty Flair Tommy Hilfiger", Id = 10214406616, Price = 0, Index = 133 },
 	{ Name = "Team USA Breaking Emote", Id = 18526338976, Price = 0, Index = 22 },
 	{ Name = "Floor Rock Freeze - Tommy Hilfiger", Id = 10214411646, Price = 0, Index = 127 },
 	{ Name = "Alo Yoga Pose - Lotus Position", Id = 12507097350, Price = 0, Index = 121 },
 	{ Name = "BURBERRY LOLA ATTITUDE", Id = 10147924028, Price = 0, Index = 140 },
-	{ Name = "Arm-Twist", Id = 9710992846, Price = 0, Index = 46 },
 	{ Name = "Rise-Above-The-Chainsmokers", Id = 13071993910, Price = 0, Index = 91 },
 	{ Name = "Stray Kids - Do It", Id = 95256633886548, Price = 0, Index = 204 },
 	{ Name = "stretch like this?", Id = 87739743400914, Price = 0, Index = 205 },
@@ -461,7 +459,14 @@ local customEmotes = {
  	{ Name = " urban dance ", Id = 89466407313325 , Price = 0, Index = 219 },
 	{ Name = "stretch like me ", Id = 108365468911712, Price = 0, Index = 220 },
 	{ Name = " spicy flow vibes ", Id = 124212021234700, Price = 0, Index = 221 },
-
+	{ Name = "Victory Dance", Id = 15506503658, Price = 0, Index = 31 },
+	{ Name = "Baby-Queen-Bouncy-Twirl", Id = 14353423348, Price = 0, Index = 30 },
+	{ Name = "Baby Queen - Face Frame", Id = 14353421343, Price = 0, Index = 23 },
+	{ Name = "Baby-Queen-Dramatic-Bow", Id = 14353419229, Price = 0, Index = 35 },
+	{ Name = "Baby Queen - Strut", Id = 14353425085, Price = 0, Index = 30 },
+	{ Name = "Arm-Twist", Id = 9710992846, Price = 0, Index = 46 }, 
+	{ Name = "Nicki Minaj - Boom Boom Boom", Id = 15571538346, Price = 0, Index = 65 },
+		{ Name = "Olivia Rodrigo Fall Back to Float", Id = 15554016057, Price = 0, Index = 35 },
 }
 
 for _, emote in ipairs(customEmotes) do
